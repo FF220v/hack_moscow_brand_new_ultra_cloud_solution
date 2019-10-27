@@ -10,8 +10,8 @@ token_url = 'https://login.microsoftonline.com/common/oauth2/token'
 ps_client_id = '04b07795-8ddb-461a-bbee-02f9e1bf7b46'
 
 ### Hardcoded stuff ###
-username = 'admin@futuregadgetslab.onmicrosoft.com'
-password = 'San987873'
+username = 
+password = 
 #######################
 
 storage_account = 'testorg4'
